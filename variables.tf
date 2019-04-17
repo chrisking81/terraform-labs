@@ -12,5 +12,5 @@ variable "tags" {
 
 variable "webapplocs" {
   description = "Regions to deploy WebApps"
-  default     = ["uksouth", "westeurope", "eastus2"]
+  default     = []
 }
